@@ -1,8 +1,8 @@
 {
     "domain": "schluter",
     "name": "Schluter®-DITRA-HEAT-E-WiFi",
-    "documentation": "",
+    "documentation": "https://github.com/clumsyCoder00/schluter-python",
     "dependencies": [],
     "codeowners": [],
     "requirements": []
-  }
+}
